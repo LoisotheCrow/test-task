@@ -4,7 +4,7 @@
 ### To run in production mode:
 - `$ npm install`
 - `$ npm run build`
-- `$ npm run serve`
+- `$ npm run start`
 ### To run in development mode:
 - `$ npm install`
 - `$ npm run dev`
